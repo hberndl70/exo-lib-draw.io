@@ -1,6 +1,6 @@
 # exo_drawio_libs
 
-The three basic draw.io libraries are stored in the following `.xml`files:
+The three basic draw.io libraries are stored in the following `.xml` files:
 
 * `exoscale.xml`
 * `exoscale_ext.xml`
