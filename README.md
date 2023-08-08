@@ -1,4 +1,4 @@
-# exo_drawio_libs
+# exo-lib-draw.io
 
 The three basic draw.io libraries are stored in the following `.xml` files:
 
